@@ -11,4 +11,4 @@ Each turn:
 * The game ends once all cards have been correctly matched.
  # General 
  **Game Look**
-<img src = "img/game look">
+![](img/game%20look)
